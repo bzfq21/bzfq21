@@ -34,14 +34,13 @@ I'm an AI-focused developer passionate about building intelligent systems that c
 - **AI Infrastructure**: Kubernetes, Docker, and cloud deployment optimized for AI workloads
 
 ### 💻 AI Development Stack
-- **Python**: AI/ML primary language (PyTorch, FastAPI, scikit-learn, PEFT, Transformers)
+- **Python**: AI/ML primary language (PyTorch,Jax, FastAPI, scikit-learn, PEFT, Transformers)
 - **Go**: High-performance AI services and agent orchestration systems
 - **Rust**: Performance-critical ML components and low-level optimizations
 - **TypeScript/JavaScript**: AI application frontends and interactive dashboards
 - **C/C++**: Performance-critical systems and ML acceleration
 
-### 🛠️ AI Development Tools
-- **ML Frameworks**: PyTorch, PEFT, scikit-learn, Transformers
+### 🛠️ AI Tools & Platforms
 - **AI Platforms**: LangChain, OpenAI APIs, Hugging Face, Anthropic
 - **DevOps for AI**: Docker, Kubernetes, CI/CD for ML pipelines
 - **Development Environment**: VS Code, Jupyter, Zed, AI tooling
