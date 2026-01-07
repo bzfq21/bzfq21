@@ -20,7 +20,7 @@
 
 - [个人主页仓库](https://github.com/bzfq21/bzfq21)
 - （在此添加其他项目链接，例如：）
-  - [项目 A](https://github.com/bzfq21/Go-ComputerUseAgent) —  automated computer use agent
+  - [Go-ComputerUseAgent](https://github.com/bzfq21/Go-ComputerUseAgent) —  automated computer use agent
 
 
 
@@ -38,4 +38,3 @@
 
 感谢阅读，愿我们都能在技术的路上越走越远 🚀
 
-(此 README 已由帮你美化，如需自定义样式、添加徽章或 GitHub 动态统计卡片，请告诉我你想要的内容，我会继续完善。)
