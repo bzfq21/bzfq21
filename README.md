@@ -1,59 +1,79 @@
 # bzfq21
 
-> AI enthusiast with expertise in agent development, model training, and machine learning research
+> AI Systems Developer building intelligent agents and machine learning solutions
 
 ## About Me
 
-📍 **Based in China** | 🧠 **AI/ML Developer** | 🤖 **Agent Development Specialist**
+📍 **Based in China** | 🤖 **Agent Development Specialist** | 🧠 **AI/ML Developer** | ⚡ **Backend Systems Expert** | 🌐 **Open to Remote Work**
 
-I'm a passionate developer focused on the intersection of artificial intelligence and practical applications. With deep expertise in:
+I'm an AI-focused developer passionate about building intelligent systems that can think, learn, and act autonomously. My expertise combines cutting-edge AI/ML with robust backend engineering to create production-ready intelligent solutions:
 
-- **Agent Development** - Building autonomous AI agents for various tasks
-- **Model Training & Research** - Deep understanding of ML model architectures and training methodologies
-- **Full-Stack AI Systems** - End-to-end AI application development
+- **AI Agent Systems** - Designing and implementing autonomous agents that can reason, plan, and execute complex tasks
+- **Machine Learning Engineering** - End-to-end ML development from research to production deployment
+- **Intelligent Backend Architecture** - Building high-performance systems specifically optimized for AI workloads
+- **Model Research & Optimization** - Deep understanding of model internals and performance tuning
 
 ## Technical Expertise
 
-### 🤖 AI & Machine Learning
-- **Model Development**: Training, fine-tuning, and optimization of ML models
-- **Agent Architecture**: Design and implementation of autonomous agents
-- **Research**: Deep study of model internals and training dynamics
+### 🤖 AI Agent Development
+- **Agent Architecture**: Multi-agent systems, reasoning frameworks, and autonomous decision-making
+- **LangChain & OpenAI**: Advanced prompt engineering, chain-of-thought, and tool integration
+- **Custom Frameworks**: Building specialized agent frameworks for specific domains
+- **Autonomous Systems**: Computer use agents, web automation, and task orchestration
 
-### 💻 Programming Languages
-- **Python**: AI/ML development (PyTorch, Jax, scikit-learn)
-- **Rust**: High-performance systems and agent implementations
-- **Go**: Backend services and distributed systems
-- **C/C++**: Performance-critical components
-- **TypeScript/JavaScript**: Frontend and web interfaces
+### 🧠 Machine Learning Engineering
+- **Model Development**: Training, fine-tuning, and optimization with PyTorch & scikit-learn
+- **Production ML**: Model serving, monitoring, and A/B testing in production environments
+- **Research & Analysis**: Deep study of model internals, training dynamics, and performance optimization
+- **MLOps**: Automated model pipelines, versioning, and deployment strategies
 
-### 🛠️ Development Tools
-- **AI Frameworks**: peft,pytorch, LangChain, OpenAI APIs
-- **DevOps**: Docker,kubernetes, Git, CI/CD pipelines
-- **Development**: VS Code, Jupyter, Zed
+### ⚡ AI-Optimized Backend Systems
+- **High-Performance AI Services**: Go/Rust systems optimized for ML inference and agent execution
+- **Distributed AI Architecture**: Scalable systems for multi-agent environments and large-scale ML workloads
+- **Real-time Processing**: Low-latency systems for responsive AI interactions
+- **AI Infrastructure**: Kubernetes, Docker, and cloud deployment optimized for AI workloads
+
+### 💻 AI Development Stack
+- **Python**: AI/ML primary language (PyTorch, FastAPI, scikit-learn, PEFT, Transformers)
+- **Go**: High-performance AI services and agent orchestration systems
+- **Rust**: Performance-critical ML components and low-level optimizations
+- **TypeScript/JavaScript**: AI application frontends and interactive dashboards
+- **C/C++**: Performance-critical systems and ML acceleration
+
+### 🛠️ AI Development Tools
+- **ML Frameworks**: PyTorch, PEFT, scikit-learn, Transformers
+- **AI Platforms**: LangChain, OpenAI APIs, Hugging Face, Anthropic
+- **DevOps for AI**: Docker, Kubernetes, CI/CD for ML pipelines
+- **Development Environment**: VS Code, Jupyter, Zed, AI tooling
+
 
 ## Featured Projects
 
 ### 🎯 [Go-ComputerUseAgent](https://github.com/bzfq21/Go-ComputerUseAgent)
-- **Type**: AI Agent
-- **Description**: Automated computer use agent built with Go
-- **Focus**: Autonomous task execution and computer interaction
+- **Tech Stack**: Go, AI Agent Architecture
+- **Description**: High-performance automated computer use agent
+- **Focus**: Combining Go's performance with intelligent autonomous systems
 
-### 🚀 Other Projects
-- *More AI-related projects in development...*
+### 🚀 AI & Agent Projects
+- **Multi-Agent Systems**: Collaborative AI agents for complex problem-solving
+- **LLM Applications**: Production systems leveraging large language models
+- **AI-Powered Tools**: Intelligent automation and decision support systems
+- *More AI agent and ML projects in development...*
 
-## Areas of Focus
+## AI Focus Areas
 
-- **🔬 Model Training**: Research and implementation of training strategies
-- **🤖 Agent Systems**: Building intelligent, autonomous systems
-- **📊 AI Research**: Exploring new architectures and methodologies
-- **🔧 Tool Development**: Creating tools for AI development and deployment
+- **🤖 Autonomous Agents**: Building next-generation AI agents with advanced reasoning capabilities
+- **🧠 Production ML**: Deploying machine learning models at scale with robust engineering
+- **🔗 AI System Integration**: Seamlessly connecting AI models with real-world applications
+- **⚡ High-Performance AI**: Optimizing systems for fast, efficient AI inference and execution
+- **🔬 ML Research**: Exploring new architectures and pushing the boundaries of AI capabilities
 
 ## Get in Touch
 
 - 📧 **Email**: bzfq21@gmail.com
 - 💼 **GitHub**: [@bzfq21](https://github.com/bzfq21)
-- 🤝 **Open to**: AI collaborations, agent development projects, research opportunities
+- 🤝 **Open to**: AI agent development projects, ML engineering opportunities, autonomous systems consulting, research collaborations
 
 ---
 
-**Interested in AI collaboration?** Feel free to reach out or explore my repositories! ⭐
+**Building the future of autonomous AI systems?** Let's collaborate on next-generation intelligent solutions! 🚀⭐
