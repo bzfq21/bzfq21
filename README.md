@@ -1,6 +1,6 @@
 # bzfq21's Homepage
 
-> 你好！我是 bzfq21：热爱编程、喜欢分享与学习的小白到进阶工程师的路上行者。
+> 你好！我是 bzfq21：热爱编程、喜欢分享
 
 ## 关于我
 
@@ -18,23 +18,17 @@
 
 以下是我在 GitHub 上的一些仓库展示：
 
-- [个人主页仓库](https://github.com/bzfq21/bzfq21) — 这个项目（当前仓库）用于展示我的简介与项目
+- [个人主页仓库](https://github.com/bzfq21/bzfq21)
 - （在此添加其他项目链接，例如：）
-  - [项目 A](https://github.com/bzfq21/project-a) — 简短描述
-  - [项目 B](https://github.com/bzfq21/project-b) — 简短描述
+  - [项目 A](https://github.com/bzfq21/Go-ComputerUseAgent) —  automated computer use agent
 
-## 博客 / 文章
 
-我会在学习过程中写下一些笔记与文章：
-
-- 博客：在此放置你的博客链接（如有）
-- 笔记：可以链接到仓库中的笔记目录或外部平台
 
 ## 联系方式
 
-- 邮箱：your.email@example.com
+- 邮箱：bzfq21@gmail.com
 - GitHub：[@bzfq21](https://github.com/bzfq21)
-- 其他社交媒体：可选填写
+
 
 ## 贡献与赞赏
 
