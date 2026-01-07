@@ -1,38 +1,59 @@
-# bzfq21's Homepage
+# bzfq21
 
-> 你好！我是 bzfq21：热爱编程、喜欢分享
+> AI enthusiast with expertise in agent development, model training, and machine learning research
 
-## 关于我
+## About Me
 
-- 位置：中国
-- 职业：开发者 / 学习者
-- 兴趣：后端开发、开源、自动化、阅读和写作
+📍 **Based in China** | 🧠 **AI/ML Developer** | 🤖 **Agent Development Specialist**
 
-## 技能
+I'm a passionate developer focused on the intersection of artificial intelligence and practical applications. With deep expertise in:
 
-- 语言：Python、Rust、Go、C/C++、TypeScript、JavaScript
-- 工具：Git、Docker、VS Code
-- 领域：AI 开发、CLI 工具、自动化脚本
+- **Agent Development** - Building autonomous AI agents for various tasks
+- **Model Training & Research** - Deep understanding of ML model architectures and training methodologies
+- **Full-Stack AI Systems** - End-to-end AI application development
 
-## 项目展示
+## Technical Expertise
 
-以下是我在 GitHub 上的一些仓库展示：
+### 🤖 AI & Machine Learning
+- **Model Development**: Training, fine-tuning, and optimization of ML models
+- **Agent Architecture**: Design and implementation of autonomous agents
+- **Research**: Deep study of model internals and training dynamics
 
-- [Go-ComputerUseAgent](https://github.com/bzfq21/Go-ComputerUseAgent) —  automated computer use agent
+### 💻 Programming Languages
+- **Python**: AI/ML development (PyTorch, TensorFlow, scikit-learn)
+- **Rust**: High-performance systems and agent implementations
+- **Go**: Backend services and distributed systems
+- **C/C++**: Performance-critical components
+- **TypeScript/JavaScript**: Frontend and web interfaces
 
+### 🛠️ Development Tools
+- **AI Frameworks**: Hugging Face, LangChain, OpenAI APIs
+- **DevOps**: Docker, Git, CI/CD pipelines
+- **Development**: VS Code, Jupyter, Zed
 
+## Featured Projects
 
-## 联系方式
+### 🎯 [Go-ComputerUseAgent](https://github.com/bzfq21/Go-ComputerUseAgent)
+- **Type**: AI Agent
+- **Description**: Automated computer use agent built with Go
+- **Focus**: Autonomous task execution and computer interaction
 
-- 邮箱：bzfq21@gmail.com
-- GitHub：[@bzfq21](https://github.com/bzfq21)
+### 🚀 Other Projects
+- *More AI-related projects in development...*
 
+## Areas of Focus
 
-## 贡献与赞赏
+- **🔬 Model Training**: Research and implementation of training strategies
+- **🤖 Agent Systems**: Building intelligent, autonomous systems
+- **📊 AI Research**: Exploring new architectures and methodologies
+- **🔧 Tool Development**: Creating tools for AI development and deployment
 
-如果你喜欢我的项目或文章，欢迎点个 Star、Fork 或给我提 Issue。也可以通过 Pull Request 改进我的 README。
+## Get in Touch
+
+- 📧 **Email**: bzfq21@gmail.com
+- 💼 **GitHub**: [@bzfq21](https://github.com/bzfq21)
+- 🤝 **Open to**: AI collaborations, agent development projects, research opportunities
 
 ---
 
-感谢阅读，愿我们都能在技术的路上越走越远 🚀
-
+**Interested in AI collaboration?** Feel free to reach out or explore my repositories! ⭐
