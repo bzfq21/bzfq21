@@ -20,15 +20,15 @@ I'm a passionate developer focused on the intersection of artificial intelligenc
 - **Research**: Deep study of model internals and training dynamics
 
 ### 💻 Programming Languages
-- **Python**: AI/ML development (PyTorch, TensorFlow, scikit-learn)
+- **Python**: AI/ML development (PyTorch, Jax, scikit-learn)
 - **Rust**: High-performance systems and agent implementations
 - **Go**: Backend services and distributed systems
 - **C/C++**: Performance-critical components
 - **TypeScript/JavaScript**: Frontend and web interfaces
 
 ### 🛠️ Development Tools
-- **AI Frameworks**: Hugging Face, LangChain, OpenAI APIs
-- **DevOps**: Docker, Git, CI/CD pipelines
+- **AI Frameworks**: peft,pytorch, LangChain, OpenAI APIs
+- **DevOps**: Docker,kubernetes, Git, CI/CD pipelines
 - **Development**: VS Code, Jupyter, Zed
 
 ## Featured Projects
