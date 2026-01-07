@@ -10,17 +10,15 @@
 
 ## 技能
 
-- 语言：Python、JavaScript、Go（根据你的实际情况调整）
+- 语言：Python、Rust、Go、C/C++、TypeScript、JavaScript
 - 工具：Git、Docker、VS Code
-- 领域：Web 开发、CLI 工具、自动化脚本
+- 领域：AI 开发、CLI 工具、自动化脚本
 
 ## 项目展示
 
 以下是我在 GitHub 上的一些仓库展示：
 
-- [个人主页仓库](https://github.com/bzfq21/bzfq21)
-- （在此添加其他项目链接，例如：）
-  - [Go-ComputerUseAgent](https://github.com/bzfq21/Go-ComputerUseAgent) —  automated computer use agent
+- [Go-ComputerUseAgent](https://github.com/bzfq21/Go-ComputerUseAgent) —  automated computer use agent
 
 
 
