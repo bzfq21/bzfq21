@@ -10,8 +10,7 @@ I'm an AI-focused developer passionate about building intelligent systems that c
 
 - **AI Agent Systems** - Designing and implementing autonomous agents that can reason, plan, and execute complex tasks
 - **Intelligent Backend Architecture** - Building high-performance systems specifically optimized for AI workloads
-- **Machine Learning Engineering** - End-to-end ML development from research to production deployment
-- **Model Research & Optimization** - Deep understanding of model internals and performance tuning
+- **Machine Learning Engineering** - Exploring how models work and experimenting with optimizations
 
 ## Technical Expertise
 
