@@ -4,9 +4,9 @@
 
 ## About Me
 
-📍 **Based in China** | 🤖 **Agent Development Specialist** | ⚡ **Backend Systems Expert**| 🧠 **AI/ML Developer**
+📍 **Based in China** | 🤖 **Agent Developer** | ⚡ **Backend  Developer**| 🧠 **AI/ML Developer**
 
-I'm an AI-focused developer passionate about building intelligent systems that can think, learn, and act autonomously. My expertise combines cutting-edge AI/ML with robust backend engineering to create production-ready intelligent solutions:
+I'm an AI-focused developer passionate about building intelligent systems that can think, learn, and act autonomously,robust backend engineering to create production-ready intelligent solutions:
 
 - **AI Agent Systems** - Designing and implementing autonomous agents that can reason, plan, and execute complex tasks
 - **Intelligent Backend Architecture** - Building high-performance systems specifically optimized for AI workloads
