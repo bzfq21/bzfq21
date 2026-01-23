@@ -59,7 +59,6 @@ I'm an AI-focused developer passionate about building intelligent systems that c
 - **🧠 Production ML**: Deploying machine learning models at scale with robust engineering
 - **🔗 AI System Integration**: Seamlessly connecting AI models with real-world applications
 - **⚡ High-Performance AI**: Optimizing systems for fast, efficient AI inference and execution
-- **🔬 ML Research**: Exploring new architectures and pushing the boundaries of AI capabilities
 
 ## Get in Touch
 
