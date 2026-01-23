@@ -4,13 +4,13 @@
 
 ## About Me
 
-📍 **Based in China** | 🤖 **Agent Development Specialist** | 🧠 **AI/ML Developer** | ⚡ **Backend Systems Expert** | 🌐 **Open to Remote Work**
+📍 **Based in China** | 🤖 **Agent Development Specialist** | ⚡ **Backend Systems Expert**| 🧠 **AI/ML Developer**
 
 I'm an AI-focused developer passionate about building intelligent systems that can think, learn, and act autonomously. My expertise combines cutting-edge AI/ML with robust backend engineering to create production-ready intelligent solutions:
 
 - **AI Agent Systems** - Designing and implementing autonomous agents that can reason, plan, and execute complex tasks
-- **Machine Learning Engineering** - End-to-end ML development from research to production deployment
 - **Intelligent Backend Architecture** - Building high-performance systems specifically optimized for AI workloads
+- **Machine Learning Engineering** - End-to-end ML development from research to production deployment
 - **Model Research & Optimization** - Deep understanding of model internals and performance tuning
 
 ## Technical Expertise
@@ -21,17 +21,18 @@ I'm an AI-focused developer passionate about building intelligent systems that c
 - **Custom Frameworks**: Building specialized agent frameworks for specific domains
 - **Autonomous Systems**: Computer use agents, web automation, and task orchestration
 
-### 🧠 Machine Learning Engineering
-- **Model Development**: Training, fine-tuning, and optimization with PyTorch & scikit-learn
-- **Production ML**: Model serving, monitoring, and A/B testing in production environments
-- **Research & Analysis**: Deep study of model internals, training dynamics, and performance optimization
-- **MLOps**: Automated model pipelines, versioning, and deployment strategies
 
 ### ⚡ AI-Optimized Backend Systems
 - **High-Performance AI Services**: Go/Rust systems optimized for ML inference and agent execution
 - **Distributed AI Architecture**: Scalable systems for multi-agent environments and large-scale ML workloads
 - **Real-time Processing**: Low-latency systems for responsive AI interactions
 - **AI Infrastructure**: Kubernetes, Docker, and cloud deployment optimized for AI workloads
+
+### 🧠 Machine Learning Engineering
+- **Model Development**: Training, fine-tuning, and optimization with PyTorch & scikit-learn
+- **Production ML**: Model serving, monitoring, and A/B testing in production environments
+- **Research & Analysis**: Deep study of model internals, training dynamics, and performance optimization
+- **MLOps**: Automated model pipelines, versioning, and deployment strategies
 
 ### 💻 AI Development Stack
 - **Python**: AI/ML primary language (PyTorch,Jax, FastAPI, scikit-learn, PEFT, Transformers)
