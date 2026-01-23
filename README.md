@@ -21,30 +21,23 @@ I'm an AI-focused developer passionate about building intelligent systems that c
 - **Autonomous Systems**: Computer use agents, web automation, and task orchestration
 
 
-### ⚡ AI-Optimized Backend Systems
-- **High-Performance AI Services**: Go/Rust systems optimized for ML inference and agent execution
-- **Distributed AI Architecture**: Scalable systems for multi-agent environments and large-scale ML workloads
-- **Real-time Processing**: Low-latency systems for responsive AI interactions
-- **AI Infrastructure**: Kubernetes, Docker, and cloud deployment optimized for AI workloads
+### ⚡ Backend Systems
+- **High-Performance AI Services**: Go/Rust systems optimized for handling massive concurrent requests and workloads
+- **Distributed Architecture**: Scalable microservices and event-driven systems for large-scale applications
+- **Real-time Processing**: Low-latency systems for streaming data and responsive interactions
+- **Infrastructure Engineering**: Kubernetes, Docker, and cloud deployment with automated scaling and observability
+
 
 ### 🧠 Machine Learning Engineering
-- **Model Development**: Training, fine-tuning, and optimization with PyTorch & scikit-learn
-- **Production ML**: Model serving, monitoring, and A/B testing in production environments
+- **Model Development**: Training, fine-tuning, and  compress with PyTorch
 - **Research & Analysis**: Deep study of model internals, training dynamics, and performance optimization
-- **MLOps**: Automated model pipelines, versioning, and deployment strategies
+- **MLOps**: Working with vllm and Ray for distributed ML workflows, and basic production monitoring with Prometheus/Grafana
 
-### 💻 AI Development Stack
-- **Python**: AI/ML primary language (PyTorch,Jax, FastAPI, scikit-learn, PEFT, Transformers)
-- **Go**: High-performance AI services and agent orchestration systems
-- **Rust**: Performance-critical ML components and low-level optimizations
+### 💻 Development Stack
+- **Python**: AI/ML primary language (PyTorch,Jax, FastAPI, scikit-learn, PEFT,unsloth, Transformers)
+- **Go**: fiber，grpc，robotgo
+- **Rust**: axume
 - **TypeScript/JavaScript**: AI application frontends and interactive dashboards
-- **C/C++**: Performance-critical systems and ML acceleration
-
-### 🛠️ AI Tools & Platforms
-- **AI Platforms**: LangChain, OpenAI APIs, Hugging Face, Anthropic
-- **DevOps for AI**: Docker, Kubernetes, CI/CD for ML pipelines
-- **Development Environment**: VS Code, Jupyter, Zed, AI tooling
-
 
 ## Featured Projects
 
@@ -70,8 +63,6 @@ I'm an AI-focused developer passionate about building intelligent systems that c
 ## Get in Touch
 
 - 📧 **Email**: bzfq21@gmail.com
-- 💼 **GitHub**: [@bzfq21](https://github.com/bzfq21)
-- 🤝 **Open to**: AI agent development projects, ML engineering opportunities, autonomous systems consulting, research collaborations
 
 ---
 
