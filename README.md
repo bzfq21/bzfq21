@@ -4,9 +4,9 @@
 
 ## About Me
 
-📍 **Based in China** | 🤖 **Agent Developer** | ⚡ **Backend  Developer**| 🧠 **AI/ML Developer**
+📍 **Based in China** | 🤖 **Agent Developer** | ⚡ **Backend Developer** | 🧠 **AI/ML Developer**
 
-I'm an AI-focused developer passionate about building intelligent systems that can think, learn, and act autonomously,robust backend engineering to create production-ready intelligent solutions:
+I'm an AI-focused developer passionate about building intelligent systems that can think, learn, and act autonomously. I combine robust backend engineering with AI expertise to create production-ready intelligent solutions:
 
 - **AI Agent Systems** - Designing and implementing autonomous agents that can reason, plan, and execute complex tasks
 - **Intelligent Backend Architecture** - Building high-performance systems specifically optimized for AI workloads
@@ -29,7 +29,7 @@ I'm an AI-focused developer passionate about building intelligent systems that c
 
 
 ### 🧠 Machine Learning Engineering
-- **Model Development**: Training, fine-tuning, and  compress with PyTorch
+- **Model Development**: Training, fine-tuning, and compression with PyTorch
 - **Research & Analysis**: Deep study of model internals, training dynamics, and performance optimization
 - **MLOps**: Working with vllm and Ray for distributed ML workflows, and basic production monitoring with Prometheus/Grafana
 
@@ -37,7 +37,7 @@ I'm an AI-focused developer passionate about building intelligent systems that c
 
 - **Python**: AI/ML primary language (PyTorch, JAX, FastAPI, scikit-learn, PEFT, Unsloth, Transformers)
 - **Go**: High-performance web services (Fiber), RPC frameworks (gRPC), desktop automation (robotgo)
-- **Rust**: Systems programming and performance-critical components (axum，tokio)
+- **Rust**: Systems programming and performance-critical components (axum, tokio)
 - **TypeScript/JavaScript**: Application frontends and interactive dashboards (React, Next.js, Node.js)
 
 ## Featured Projects
