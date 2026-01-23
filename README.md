@@ -34,10 +34,11 @@ I'm an AI-focused developer passionate about building intelligent systems that c
 - **MLOps**: Working with vllm and Ray for distributed ML workflows, and basic production monitoring with Prometheus/Grafana
 
 ### 💻 Development Stack
-- **Python**: AI/ML primary language (PyTorch,Jax, FastAPI, scikit-learn, PEFT,unsloth, Transformers)
-- **Go**: fiber，grpc，robotgo
-- **Rust**: axume
-- **TypeScript/JavaScript**: AI application frontends and interactive dashboards
+
+- **Python**: AI/ML primary language (PyTorch, JAX, FastAPI, scikit-learn, PEFT, Unsloth, Transformers)
+- **Go**: High-performance web services (Fiber), RPC frameworks (gRPC), desktop automation (robotgo)
+- **Rust**: Systems programming and performance-critical components (axum，tokio)
+- **TypeScript/JavaScript**: Application frontends and interactive dashboards (React, Next.js, Node.js)
 
 ## Featured Projects
 
